@@ -1,6 +1,6 @@
 # ChomskyGrammar
 Chomsky's Grammar
-
+Written with Java language
 
 
 The program receives Chomsky grammar and examines the acceptance of the string in the grammar
